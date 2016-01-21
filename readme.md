@@ -4,7 +4,8 @@
   *  AngularJS权威教程
   *  Node.Js实战
   *  设计模式之禅  
-  *  HTTP权威指南
+  *  HTTP权威指南  
+
 ###已经读完的:
   *  深入浅出Nodejs
   *  eloquent-javascript

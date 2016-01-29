@@ -1,6 +1,5 @@
 ##我的阅读书单
 ###目前正在阅读:
-  *  岛上书店
   *  MongoDB权威指南
   *  AngularJS权威教程
   *  Node.Js实战
@@ -10,3 +9,4 @@
 ###已经读完的:
   *  深入浅出Nodejs
   *  eloquent-javascript
+  *  岛上书店

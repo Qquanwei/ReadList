@@ -1,5 +1,6 @@
 ##我的阅读书单
 ###目前正在阅读:
+  *  岛上书店
   *  MongoDB权威指南
   *  AngularJS权威教程
   *  Node.Js实战

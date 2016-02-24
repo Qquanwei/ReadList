@@ -8,7 +8,6 @@
 *  第五项修炼
 *  集体智慧编程
 *  易读代码的艺术
-*  ECMAScript6入门
 *  图解http
 *  RESTFul Web APIs中文版
 *  RESTFul实战  
@@ -18,6 +17,7 @@
 *  AngularJS权威教程
 *  设计模式之禅  
 *  HTTP权威指南  
+*  ECMAScript6入门
 
 ###已经读完的:
 *  深入浅出Nodejs

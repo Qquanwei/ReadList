@@ -17,6 +17,7 @@
 *  AngularJS权威教程
 *  设计模式之禅  
 *  HTTP权威指南  
+*  你不知道的JavaScript-上卷
 
 ###已经读完的:
 *  深入浅出Nodejs

@@ -17,7 +17,6 @@
 *  AngularJS权威教程
 *  设计模式之禅  
 *  HTTP权威指南  
-*  ECMAScript6入门
 
 ###已经读完的:
 *  深入浅出Nodejs
@@ -28,3 +27,4 @@
 *  三体3
 *  Node.Js实战
 *  东野圭吾：《我的晃荡的青春》
+*  ECMAScript6入门

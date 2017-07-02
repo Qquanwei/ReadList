@@ -8,11 +8,11 @@
 *  易读代码的艺术
 *  图解http
 *  RESTFul Web APIs中文版
-*  RESTFul实战  
+*  RESTFul实战
 
 ###目前正在阅读:
-*  设计模式之禅  
-*  HTTP权威指南  
+*  设计模式之禅
+*  HTTP权威指南
 *  CSS权威指南-第三版
 
 ###已经读完的:
@@ -68,3 +68,4 @@
 *  神们自己
 *  css揭秘
 *  人工智能(李开复)
+*  Eat That FROG

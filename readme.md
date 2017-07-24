@@ -10,11 +10,6 @@
 *  RESTFul Web APIs中文版
 *  RESTFul实战
 
-###目前正在阅读:
-*  设计模式之禅
-*  HTTP权威指南
-*  CSS权威指南-第三版
-
 ###已经读完的:
 *  深入浅出Nodejs
 *  eloquent-javascript
@@ -69,3 +64,5 @@
 *  css揭秘
 *  人工智能(李开复)
 *  Eat That FROG
+*  假如岁月足够长
+*  孤独深处

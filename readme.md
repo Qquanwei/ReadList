@@ -170,3 +170,4 @@
 *  中文版Photoshop CC从入门到精通
 *  Being Mortal
 *  高老头
+*  中国农民调查
